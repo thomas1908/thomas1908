@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <body>
-<div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=thomas1908&theme=radical)](https://git.io/streak-stats)
-  
+<div align="center">  
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas1908&theme=radical" alt="artucuno" /></a> </p>
   
   ![C++](https://img.shields.io/badge/C++-Advanced-blue?logo=cplusplus)
