@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <body>
 <div align="center">  
+  <img src="https://github.com/thomas1908/thomas1908/blob/main/Screenshot_16-Oct_15-37-18_13722.png">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas1908&theme=radical" alt="artucuno" /></a> </p>
   
   ![C++](https://img.shields.io/badge/C++-Advanced-blue?logo=cplusplus)
