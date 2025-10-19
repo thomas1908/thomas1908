@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <body>
 <div align="center">  
+
+  <p>Distro :</p>
+  
+  ![Static Badge](https://img.shields.io/badge/Arch-Linux?style=flat&logo=archlinux&labelColor=white&color=blue)
+  
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas1908&theme=radical" alt="artucuno" /></a> </p>
   
   ![C++](https://img.shields.io/badge/C++-Advanced-blue?logo=cplusplus)
